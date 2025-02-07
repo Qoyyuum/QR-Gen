@@ -1,7 +1,7 @@
 # QR Code Generator
 Shows how a QR Generator works
 
-[Live Demo](http://htmlpreview.github.io/?https://github.com/Qoyyuum/QR-Gen/blob/master/qr.html)
+[Live Demo](https://qoyyuum.github.io/QR-Gen/qr.html)
 
 ## What it does
 1. Fill in the HTML form with whatever string content.
